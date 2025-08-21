@@ -171,11 +171,12 @@
 * [10. Facebook Chat](xi.-cac-tinh-nang-mo-rong/facebook-chat.md)
 * [11. LadiPage Framework](xi.-cac-tinh-nang-mo-rong/ladipage-framework.md)
 * [12. Chống copy , bảo vệ trang](xi.-cac-tinh-nang-mo-rong/a-bao-ve-noi-dung-trang.md)
-* [13. Hiển thị thời gian thực khi vào trang](xi.-cac-tinh-nang-mo-rong/13.-hien-thi-thoi-gian-thuc-khi-vao-trang.md)
 
 ***
 
 * [13.Tự chuyển trang khi khách truy cập](13.tu-chuyen-trang-khi-khach-truy-cap.md)
+* [14. Hiển thị thời gian thực khi vào trang](14.-hien-thi-thoi-gian-thuc-khi-vao-trang.md)
+* [15. Nhảy số người đang xem sản phẩm](15.-nhay-so-nguoi-dang-xem-san-pham.md)
 
 ## XII. theo dõi và đo lường landing Page
 
