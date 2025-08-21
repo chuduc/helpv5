@@ -171,6 +171,7 @@
 * [10. Facebook Chat](xi.-cac-tinh-nang-mo-rong/facebook-chat.md)
 * [11. LadiPage Framework](xi.-cac-tinh-nang-mo-rong/ladipage-framework.md)
 * [12. Chống copy , bảo vệ trang](xi.-cac-tinh-nang-mo-rong/a-bao-ve-noi-dung-trang.md)
+* [13. Hiển thị thời gian thực khi vào trang](xi.-cac-tinh-nang-mo-rong/13.-hien-thi-thoi-gian-thuc-khi-vao-trang.md)
 
 ***
 
