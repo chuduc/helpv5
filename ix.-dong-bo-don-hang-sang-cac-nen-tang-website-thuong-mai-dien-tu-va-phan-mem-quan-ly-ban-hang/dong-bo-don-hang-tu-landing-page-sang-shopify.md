@@ -33,9 +33,9 @@ Bạn cần dán đường dẫn builder như trong hình tại app shopify củ
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-* App URL: [https://](https://webcake.io)app.ladipage.com/
-* Preferences URL: [https://](https://webcake.io)app.ladipage.com/
-* Allowed redirection URL: [https://](https://webcake.io)app.ladipage.com/auth/shopify.html
+* App URL: https://app.ladipage.com/
+* Preferences URL: https://app.ladipage.com/
+* Allowed redirection URL: https://app.ladipage.com/auth/shopify.html
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
