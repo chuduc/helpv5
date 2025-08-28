@@ -22,9 +22,9 @@ Truy cập vào trang chỉnh sửa PopupX, mục Xuất bản, copy phần code
 
 #### Bước 2 : Truy cập builder chỉnh sửa của trang LandingPage muốn hiển thị PopupX, có 2 cách để thiết lập hiển thị PopupX trên Landingpage&#x20;
 
-**Cách 1 :** Ở builder, vào mục Ứng dụng, PopupX, chọn Bật , để tích hợp PopupX vào trang của bạn
+**Cách 1 :** Ở builder, vào mục Tiện ích , PopupX, chọn Bật , để tích hợp PopupX vào trang của bạn
 
-![](<../.gitbook/assets/image (611).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Cách 2:**  Vào mục Thiết lập- Mã javascripts/css. Bạn paste phần code PopupX SDK đã copy ở bước 1, chèn vào mục Trước thẻ \</head>
 
