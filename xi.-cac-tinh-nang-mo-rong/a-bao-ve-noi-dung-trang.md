@@ -4,6 +4,6 @@
 
 Truy cập app.ladipage.com, vào  builder chỉnh sửa của trang landingpage muốn chống copy -> Thiết lập -> Thiết lập toàn trang -> Bật tính năng Bảo vệ trang
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

@@ -5,7 +5,7 @@
 **Cách 1 : Tạo tài khoản liên kết từ mục Cài đặt** \
 Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn menu **Cài đặt -> Tích hợp-> Tài khoản liên kết**. Sau đó lựa chọn Loại tài khoản là **Ecommerce**
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cách 2 : Tạo tài khoản liên kết từ mục Landing Pages -> Cấu hình form**
 
@@ -15,7 +15,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 
 <figure><img src="../.gitbook/assets/image (1298).png" alt=""><figcaption><p>Chọn Tạo tài khoản liên kết</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Bước 2:** Nhập đầy đủ các thông tin:
 

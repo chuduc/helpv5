@@ -24,7 +24,7 @@ Truy cập vào trang chỉnh sửa PopupX, mục Xuất bản, copy phần code
 
 **Cách 1 :** Ở builder, vào mục Tiện ích , PopupX, chọn Bật , để tích hợp PopupX vào trang của bạn
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 **Cách 2:**  Vào mục Thiết lập- Mã javascripts/css. Bạn paste phần code PopupX SDK đã copy ở bước 1, chèn vào mục Trước thẻ \</head>
 

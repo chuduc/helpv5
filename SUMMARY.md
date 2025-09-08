@@ -388,3 +388,15 @@
 ## XVIII. SẢN PHẨM MẪU
 
 * [Thêm sản phẩm mẫu và thiết lập chung](xviii.-san-pham-mau/them-san-pham-mau-va-thiet-lap-chung.md)
+
+## XIX.Pipelines
+
+* [Quy tắc điều phối](xix.pipelines/quy-tac-dieu-phoi.md)
+* [Quy trình](xix.pipelines/quy-trinh/README.md)
+  * [Nhân bản quy trình](xix.pipelines/quy-trinh/nhan-ban-quy-trinh.md)
+  * [Xóa quy trình](xix.pipelines/quy-trinh/xoa-quy-trinh.md)
+  * [Xác suất chốt](xix.pipelines/quy-trinh/xac-suat-chot.md)
+  * [Cảnh báo đình trệ theo ngày](xix.pipelines/quy-trinh/canh-bao-dinh-tre-theo-ngay.md)
+  * [Thêm mới giai đoạn/ trạng thái](xix.pipelines/quy-trinh/them-moi-giai-doan-trang-thai.md)
+  * [Xóa giao đoạn/trạng thái](xix.pipelines/quy-trinh/xoa-giao-doan-trang-thai.md)
+  * [Thay đổi thứ tự của giai đoạn/ trạng thái](xix.pipelines/quy-trinh/thay-doi-thu-tu-cua-giai-doan-trang-thai.md)
