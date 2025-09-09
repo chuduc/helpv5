@@ -392,11 +392,12 @@
 ## XIX.Pipelines
 
 * [Quy tắc điều phối](xix.pipelines/quy-tac-dieu-phoi.md)
+* [Các chế độ xem của giao dịch/công việc](xix.pipelines/cac-che-do-xem-cua-giao-dich-cong-viec.md)
 * [Quy trình](xix.pipelines/quy-trinh/README.md)
   * [Nhân bản quy trình](xix.pipelines/quy-trinh/nhan-ban-quy-trinh.md)
   * [Xóa quy trình](xix.pipelines/quy-trinh/xoa-quy-trinh.md)
   * [Xác suất chốt của quy trình bán hàng](xix.pipelines/quy-trinh/xac-suat-chot-cua-quy-trinh-ban-hang.md)
   * [Cảnh báo đình trệ theo ngày](xix.pipelines/quy-trinh/canh-bao-dinh-tre-theo-ngay.md)
   * [Thêm mới giai đoạn/ trạng thái](xix.pipelines/quy-trinh/them-moi-giai-doan-trang-thai.md)
-  * [Xóa giao đoạn](xix.pipelines/quy-trinh/xoa-giao-doan.md)
+  * [Xóa giai đoạn](xix.pipelines/quy-trinh/xoa-giai-doan.md)
   * [Thay đổi thứ tự của giai đoạn/ trạng thái](xix.pipelines/quy-trinh/thay-doi-thu-tu-cua-giai-doan-trang-thai.md)

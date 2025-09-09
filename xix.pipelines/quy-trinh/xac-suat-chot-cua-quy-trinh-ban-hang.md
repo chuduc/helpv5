@@ -24,13 +24,25 @@ Sau khi thiết lập xong, hãy bấm **Bật xác suất chốt theo giao dị
 
 <figure><img src="../../.gitbook/assets/image (1461).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Lưu ý :&#x20;
+
+* **Để thiết lập xác suất chốt cho từng giao dịch**, bạn cần **BẬT** tùy chọn _xác suất chốt theo giao dịch_ trong Quy trình.
+* Trong trường hợp một giao dịch vừa có _xác suất chốt theo giao dịch_, vừa có _xác suất chốt theo giai đoạn_, hệ thống sẽ **ưu tiên tính Giá trị trọng số dựa trên xác suất của giao dịch**.
+{% endhint %}
+
 ***
 
 ## Xác suất chốt hiển thị trong giai đoạn như thế nào?
 
 **Khi xác suất được thiết lập**, phần tóm tắt giao dịch ở từng giai đoạn sẽ hiển thị dưới dạng tỷ lệ phần trăm so với tổng giá trị giao dịch của giai đoạn đó.
 
-Trong **chế độ Quy trình**, khi bạn xem thống kê giá trị doanh số của một giai đoạn, hệ thống sẽ tính ra **Giá trị trọng số** theo công thức:\
-**Giá trị trọng số = Tổng (Giá trị từng giao dịch × Xác suất chốt của giao dịch đó).**
+1. Trong **chế độ Quy trình**, khi bạn xem thống kê giá trị doanh số của một giai đoạn, hệ thống sẽ tính ra **Giá trị trọng số** theo công thức:\
+   **Giá trị trọng số = Tổng (Giá trị từng giao dịch × Xác suất chốt của giao dịch đó).**
 
 <figure><img src="../../.gitbook/assets/image (1462).png" alt=""><figcaption></figcaption></figure>
+
+2. Trong chế độ **forecast** của giao dịch
+
+<figure><img src="../../.gitbook/assets/image (1475).png" alt=""><figcaption></figcaption></figure>
+
