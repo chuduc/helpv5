@@ -16,6 +16,12 @@
 * 🧩 **Điều chỉnh chiến lược bán hàng:** Thông tin từ giao dịch thất bại giúp tinh chỉnh cách tiếp cận khách hàng, định giá, sản phẩm hoặc cách chăm sóc.
 * 🔄 **Tái kích hoạt cơ hội:** Một số lost deals có thể được mở lại sau này khi khách hàng thay đổi nhu cầu hoặc ngân sách.
 
+{% hint style="danger" %}
+Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc bên phải màn hình&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## 3. Cách chuyển trạng thái thành công , thất bại của giao dịch&#x20;

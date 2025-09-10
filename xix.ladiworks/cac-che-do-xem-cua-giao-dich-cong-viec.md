@@ -6,7 +6,7 @@ Hiện tại ứng dụng LadiWorks có nhiều chế độ xem giao dịch, d�
 
 ## 1. Chế độ xem **Quy trình**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Chế độ xem dạng lưới&#x20;
 
