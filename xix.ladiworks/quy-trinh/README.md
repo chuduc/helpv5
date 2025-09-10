@@ -10,16 +10,16 @@ _Lưu ý: Tùy theo gói sẽ có các giới hạn về số lượng quy trìn
 
 Truy cập ứng dụng **LadiWorks -> Tạo mới** trong phần danh sách Quy trình **->** chọn loại **Quy trình** mong muốn rồi bấm **Tạo quy trình**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Quy trình bán hàng :  quản lý kinh doanh trực quan, theo dõi cơ hội từ khi tiếp cận khách hàng cho đến khi ký kếthợp đồng . thiết lập các giai đoạn khác nhau của dự án kinh doanh của bạn
 * Quy trình làm việc :  quản lý công việc linh hoạt, lựa cho tối ưu cho mọi quy trình làm việc, giúp thiết lập các trạng thái khác nhau trong công việc của bạn, thích hợp với tính chất hoạt động của từng team, từng công ty khác nhau
 
 Quy trình sẽ được thêm vào tài khoản và bạn có thể bắt đầu chỉnh sửa các giai đoạn của nó. Khi các giai đoạn đã đúng như mong muốn, nhấn **“Cập nhật thay đổi ”** để lưu.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -6,25 +6,25 @@ Hiện tại ứng dụng LadiWorks có nhiều chế độ xem giao dịch, d�
 
 ## 1. Chế độ xem **Quy trình**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Chế độ xem dạng lưới&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Chế độ xem Forecast view :&#x20;
 
 Chế độ này chỉ áp dụng với quy trình BÁN HÀNG, KHÔNG hiển thị với quy trình CÔNG VIỆC
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Chế độ xem Chi tiết giao dịch/ công việc
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Chế độ xem Todo list &#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Bảng so sánh Mục đích chính, Ưu điểm, Hạn chế của các chế độ xem
 

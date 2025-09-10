@@ -2,7 +2,7 @@
 
 Sau khi đã Thêm thành viên mới, bạn hoàn toàn có thể chỉnh sửa quyền tài khoản của thành viên đó  đó tại đây:
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
