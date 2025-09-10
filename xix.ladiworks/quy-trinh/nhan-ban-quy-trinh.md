@@ -4,7 +4,7 @@ Cho phép bạn nhân bản và chỉnh sửa các quy trình tương tự nhau 
 
 Truy cập ứng dụng **LadiWorks -> Chọn Quy trình** muốn **nhân bản -> Chỉnh sửa**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở góc bên tay phải, dấu ... , chọn mục **Nhân bản quy trình**&#x20;
 

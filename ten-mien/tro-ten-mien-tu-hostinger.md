@@ -24,7 +24,7 @@ Vào quản lý tên miền muốn trỏ tới hosting của LadiPage, thao tác
 
 &#x20;      &#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Trỏ tên miền phụ :**&#x20;
 

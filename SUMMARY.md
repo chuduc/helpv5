@@ -389,15 +389,18 @@
 
 * [Thêm sản phẩm mẫu và thiết lập chung](xviii.-san-pham-mau/them-san-pham-mau-va-thiet-lap-chung.md)
 
-## XIX.Pipelines
+## XIX.LadiWorks
 
-* [Quy tắc điều phối](xix.pipelines/quy-tac-dieu-phoi.md)
-* [Các chế độ xem của giao dịch/công việc](xix.pipelines/cac-che-do-xem-cua-giao-dich-cong-viec.md)
-* [Quy trình](xix.pipelines/quy-trinh/README.md)
-  * [Nhân bản quy trình](xix.pipelines/quy-trinh/nhan-ban-quy-trinh.md)
-  * [Xóa quy trình](xix.pipelines/quy-trinh/xoa-quy-trinh.md)
-  * [Xác suất chốt của quy trình bán hàng](xix.pipelines/quy-trinh/xac-suat-chot-cua-quy-trinh-ban-hang.md)
-  * [Cảnh báo đình trệ theo ngày](xix.pipelines/quy-trinh/canh-bao-dinh-tre-theo-ngay.md)
-  * [Thêm mới giai đoạn/ trạng thái](xix.pipelines/quy-trinh/them-moi-giai-doan-trang-thai.md)
-  * [Xóa giai đoạn](xix.pipelines/quy-trinh/xoa-giai-doan.md)
-  * [Thay đổi thứ tự của giai đoạn/ trạng thái](xix.pipelines/quy-trinh/thay-doi-thu-tu-cua-giai-doan-trang-thai.md)
+* [Quy tắc điều phối](xix.ladiworks/quy-tac-dieu-phoi.md)
+* [Các chế độ xem của giao dịch/công việc](xix.ladiworks/cac-che-do-xem-cua-giao-dich-cong-viec.md)
+* [Giao dịch/ Công việc](xix.ladiworks/giao-dich-cong-viec/README.md)
+  * [Giao dịch](xix.ladiworks/giao-dich-cong-viec/giao-dich/README.md)
+    * [Chi tiết giao dịch](xix.ladiworks/giao-dich-cong-viec/giao-dich/chi-tiet-giao-dich.md)
+* [Quy trình](xix.ladiworks/quy-trinh/README.md)
+  * [Nhân bản quy trình](xix.ladiworks/quy-trinh/nhan-ban-quy-trinh.md)
+  * [Xóa quy trình](xix.ladiworks/quy-trinh/xoa-quy-trinh.md)
+  * [Xác suất chốt của quy trình bán hàng](xix.ladiworks/quy-trinh/xac-suat-chot-cua-quy-trinh-ban-hang.md)
+  * [Cảnh báo đình trệ theo ngày](xix.ladiworks/quy-trinh/canh-bao-dinh-tre-theo-ngay.md)
+  * [Thêm mới giai đoạn/ trạng thái](xix.ladiworks/quy-trinh/them-moi-giai-doan-trang-thai.md)
+  * [Xóa giai đoạn](xix.ladiworks/quy-trinh/xoa-giai-doan.md)
+  * [Thay đổi thứ tự của giai đoạn/ trạng thái](xix.ladiworks/quy-trinh/thay-doi-thu-tu-cua-giai-doan-trang-thai.md)
