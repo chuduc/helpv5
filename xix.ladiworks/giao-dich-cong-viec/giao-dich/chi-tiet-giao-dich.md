@@ -56,6 +56,10 @@ Muốn chỉnh sửa nội dung nào trong tổng quan, bạn click vào icon ch
 
 Thể hiện các thông tin khách hàng và công ty mà bạn đã thiết lập với giao dịch&#x20;
 
+* Khách hàng : bạn có thể tạo mới khách hàng hoặc chọn khách hàng đã có sẵn trong https//app.ladipage.com, mục Khách hàng&#x20;
+
+{% embed url="https://ladipage-vietnam.gitbook.io/v5-ladiflow/khach-hang/khach-hang" %}
+
 ## Hoạt động đã lên lịch
 
 Mục tiêu chính của LadiWork là giúp người dùng chốt giao dịch thông qua các hoạt động&#x20;
@@ -74,4 +78,11 @@ Các thay đổi bao gồm: thay đổi giai đoạn, giá trị, nhãn, cập n
 
 <figure><img src="../../../.gitbook/assets/image (1481).png" alt=""><figcaption></figcaption></figure>
 
-Bảng so sánh các&#x20;
+## Bảng so sánh các chức năng và ứng dụng của các mục trong chi tiết Giao dịch
+
+| **Phần**                       | **Chức năng chính**                                                                                                                                                                   | **Khi nào hữu ích**                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Thanh tiến trình**           | Hiển thị giai đoạn quy trình hiện tại của  giao dịch và số ngày ở mỗi giai đoạn.                                                                                                      | Khi muốn nhanh chóng biết giao dịch đã đi tới đâu và mất bao lâu để di chuyển qua từng giai đoạn. |
+| **Thanh công cụ bên tay trái** | Chứa thông tin cốt lõi của giao dịch: giá trị, sản phẩm, xác suất, ngày dự kiến chốt, liên hệ, tổ chức.                                                                               | Khi cần xem nhanh toàn bộ thông tin chính mà không cần mở từng tab.                               |
+| **Lịch sử**                    | <ul><li>Nhật ký thay đổi: giai đoạn, giá trị, nhãn, liên hệ, ngày dự kiến chốt, trường dữ liệu.</li><li>Lưu trữ toàn bộ ghi chú, hoạt động, email, file liên quan đến deal.</li></ul> | Khi cần theo dõi lịch sử chỉnh sửa, phục vụ quản lý và kiểm soát.                                 |
+| Người theo dõi                 | Thêm hoặc xóa người theo dõi                                                                                                                                                          | Khi muốn chia sẻ hoặc thông báo cập nhật giao dịch cho đồng nghiệp.                               |
