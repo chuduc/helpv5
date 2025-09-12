@@ -6,11 +6,11 @@ Hiện tại ứng dụng LadiWorks có nhiều chế độ xem giao dịch, d�
 
 ## 1. Chế độ xem **Quy trình**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Chế độ xem dạng lưới&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Chế độ xem Forecast view :&#x20;
 
@@ -57,7 +57,7 @@ Chế độ này chỉ áp dụng với quy trình BÁN HÀNG, KHÔNG hiển th�
 ## 10. Câu hỏi nhanh – chọn view nào?
 
 * Cần kéo-thả giai đoạn, thấy tắc chỗ nào? → Chế độ xem **Quy Trình**
-* Cần lọc “giao dịch > 100 triệu, chưa có activity 7 ngày, ở Giai đoạn 2”? → **Danh sách**
-* Sếp hỏi “tháng này dự kiến chốt bao nhiêu?” → **Forecast**
-* Muốn xem đầy đủ email đã trao đổi với khách A? →**Chi tiết giao dịch**
-* Muốn chắc không quên gọi lại hôm nay? →**Todo list** &#x20;
+* Cần lọc “giao dịch > 100 triệu, chưa có activity 7 ngày, ở Giai đoạn 2”? → Chế độ xem **Danh sách**
+* Sếp hỏi “tháng này dự kiến chốt bao nhiêu?” →Chế độ xem   **Forecast**
+* Muốn xem đầy đủ email đã trao đổi với khách A? →Chế độ xem  **Chi tiết giao dịch**
+* Muốn chắc không quên gọi lại hôm nay? →Chế độ xem  **Todo list** &#x20;
