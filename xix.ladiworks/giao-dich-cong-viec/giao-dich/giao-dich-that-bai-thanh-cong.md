@@ -20,7 +20,7 @@
 Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc bên phải màn hình&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc b�
 
 ***
 
-### Chế độ xem giao dịch&#x20;
+### Chế độ xem dạng bảng (kanban)
 
 Chọn giao dịch muốn chuyển trạng thái , rồi kéo di chuyển xuống thanh công cụ, chọn mục Thành công, Thất bại&#x20;
 

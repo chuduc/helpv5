@@ -14,7 +14,7 @@
 
 Ở mục chi tiết công việc, góc bên phải, bấm nút **Mở lại**
 
-( bổ sung ảnh )
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Điều này sẽ mở lại công việc ở đúng giai đoạn mà nó đã ở trước khi được đánh dấu là **“Xóa”**.
 

@@ -1,12 +1,12 @@
 # Cảnh báo đình trệ theo ngày
 
-Trong LadiWorks, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/ công việc **đã nằm quá lâu ở một giai đoạn trong quy trình mà không có hoạt động mới**.
+Trong LadiWork, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/công việc **đã nằm quá lâu ở một giai đoạn trong quy trình mà không có hoạt động mới**.
 
 Cụ thể:
 
 * Mỗi giai đoạn trong quy trình có thể được cài đặt một “thời gian đình trệ” (ví dụ: 7 ngày, 14 ngày).
-* Nếu một giao dịch/ công việc không được cập nhật hoặc không có hoạt động trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị cảnh báo đình trệ.
-* Trên giao diện, thường bạn sẽ thấy giao dịch/ công việc  đổi màu (thường là màu đỏ hoặc có dấu hiệu trực quan) để dễ nhận biết.
+* Nếu một giao dịch/công việc không được cập nhật hoặc không có hoạt động trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị cảnh báo đình trệ.
+* Trên giao diện, thường bạn sẽ thấy giao dịch/công việc đổi màu (thường là màu đỏ hoặc có dấu hiệu trực quan) để dễ nhận biết.
 
 Mục đích của cảnh báo đình trệ:
 
@@ -14,11 +14,11 @@ Mục đích của cảnh báo đình trệ:
 * Nhắc nhở kịp thời để bạn follow-up khách hàng, công việc đang làm&#x20;
 * Giữ quy trình  “sống” và phản ánh đúng tiến độ.
 
-👉 Hiểu đơn giản: Cảnh báo đình trệ trong LadiWorks giống như một “đèn đỏ” báo rằng giao dịch/ công việc **này đang bị chậm tiến độ hoặc có nguy cơ mất** nếu bạn không hành động.
+👉 Hiểu đơn giản: Cảnh báo đình trệ trong LadiWork giống như một “đèn đỏ” báo rằng giao dịch/ công việc **này đang bị chậm tiến độ hoặc có nguy cơ mất** nếu bạn không hành động.
 
 ## Thiết lập tính năng Đình trệ
 
-Truy cập ứng dụng **LadiWorks -> Chọn Quy Trình** muốn thiết lập tính năng đình trệ&#x20;
+Truy cập ứng dụng **LadiWork -> Chọn Quy Trình** muốn thiết lập tính năng đình trệ&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1463).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu
 
 ***
 
-## Giao dịch/ Cồng việc của bạn bị đình trệ! Bạn phải làm gì?
+## Giao dịch/Cồng việc của bạn bị đình trệ! Bạn phải làm gì?
 
 Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem Quy trình&#x20;
 
@@ -49,7 +49,7 @@ Nếu giao dịch/ công việc bị đình trệ, bạn có thể khôi phục 
 
 Tính năng Đình trệ **không xét đến ngày hoạt động kế tiếp**, vì vậy ngay cả khi giao dịch/ công việc có một hoạt động được lên lịch xa trong tương lai, nó vẫn có thể bị coi là đình trệ.
 
-Trong tình huống này, hãy cân nhắc lại cách bạn thiết lập giai đoạn và hoạt động trong ứng dụng LadiWorks của công ty:
+Trong tình huống này, hãy cân nhắc lại cách bạn thiết lập giai đoạn và hoạt động trong ứng dụng LadiWork của công ty:
 
 * Nếu bạn đặt thời gian đình trệ dài (ví dụ: 20 ngày) để phù hợp với các hoạt động diễn ra trong tương lai xa, điều đó có thể ảnh hưởng đến mục tiêu ngắn hạn và năng suất.
 * Ngược lại, nếu bạn đặt thời gian đình trệ ngắn, việc quản lý và sắp xếp các giao dịch/ công việc có hoạt động diễn ra trong tương lai sẽ trở nên khó khăn.

@@ -403,7 +403,7 @@
     * [Thay đổi giai đoạn,quy trình bất kỳ của 1 giao dịch](xix.ladiworks/giao-dich-cong-viec/giao-dich/thay-doi-giai-doan-quy-trinh-bat-ky-cua-1-giao-dich.md)
     * [Giao dịch thất bại, thành công](xix.ladiworks/giao-dich-cong-viec/giao-dich/giao-dich-that-bai-thanh-cong.md)
   * [Công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/README.md)
-    * [Chi tiết giao dịch](xix.ladiworks/giao-dich-cong-viec/cong-viec/chi-tiet-giao-dich.md)
+    * [Chi tiết công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/chi-tiet-cong-viec.md)
     * [Lưu trữ , khôi phục công việc lưu trữ](xix.ladiworks/giao-dich-cong-viec/cong-viec/luu-tru-khoi-phuc-cong-viec-luu-tru.md)
     * [Nhân bản công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/nhan-ban-cong-viec.md)
     * [Xóa công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/xoa-cong-viec.md)

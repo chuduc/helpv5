@@ -1,6 +1,6 @@
 # Chi tiết giao dịch
 
-Truy cập ứng dụng **LadiWorks -> chọn quy trình liên quan bán hàng ->** Click vào **Giao dịch** muốn xem chi tiết thông tin&#x20;
+Truy cập ứng dụng **LadiWork -> chọn quy trình liên quan bán hàng ->** Click vào **Giao dịch** muốn xem chi tiết thông tin&#x20;
 
 Chế độ xem giao dịch chi tiết  chứa tất cả thông tin liên quan đến một giao dịch, bao gồm thông tin khách hàng, giá trị giao dịch.., tệp, hoạt động hoặc ghi chú.
 

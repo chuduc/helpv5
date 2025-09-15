@@ -2,7 +2,7 @@
 
 Cho phép bạn nhân bản và chỉnh sửa các quy trình tương tự nhau 1 cách nhanh chóng, dễ dàng&#x20;
 
-Truy cập ứng dụng **LadiWorks -> Chọn Quy trình** muốn **nhân bản -> Chỉnh sửa**&#x20;
+Truy cập ứng dụng **LadiWork -> Chọn Quy trình** muốn **nhân bản -> Chỉnh sửa**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

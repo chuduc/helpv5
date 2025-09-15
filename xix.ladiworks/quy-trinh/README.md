@@ -8,11 +8,11 @@
 
 _Lưu ý: Tùy theo gói sẽ có các giới hạn về số lượng quy trình được tạo_
 
-Truy cập ứng dụng **LadiWorks -> Tạo mới** trong phần danh sách Quy trình **->** chọn loại **Quy trình** mong muốn rồi bấm **Tạo quy trình**&#x20;
+Truy cập ứng dụng **LadiWork-> Tạo mới** trong phần danh sách Quy trình **->** chọn loại **Quy trình** mong muốn rồi bấm **Tạo quy trình**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Quy trình bán hàng** :  quản lý kinh doanh trực quan, theo dõi cơ hội từ khi tiếp cận khách hàng cho đến khi ký kếthợp đồng . thiết lập các giai đoạn khác nhau của dự án kinh doanh của bạn
 * **Quy trình làm việc** :  quản lý công việc linh hoạt, lựa cho tối ưu cho mọi quy trình làm việc, giúp thiết lập các trạng thái khác nhau trong công việc của bạn, thích hợp với tính chất hoạt động của từng team, từng công ty khác nhau
@@ -30,6 +30,7 @@ Việc sử dụng nhiều quy trình có thể rất hữu ích trong một s�
 * Nếu bạn bán nhiều sản phẩm khác nhau, mỗi sản phẩm cần một bộ giai đoạn giao dịch riêng
 * Nếu bạn vừa cung cấp sản phẩm vừa cung cấp dịch vụ, nhưng quy trình dịch vụ có nhiều giai đoạn hơn
 * Nếu bạn muốn sử dụng các trường tùy chỉnh riêng cho từng quy trình để giữ quy trình tách biệt
+* Công ty có nhiều đội nhóm khác nhau, mỗi đội nhóm có 1 quy trình tiếp cân,xử lý vấn đề cho khách hàng riêng biệt
 
 **Chúng tôi không khuyến nghị sử dụng nhiều** quy trình cho:
 

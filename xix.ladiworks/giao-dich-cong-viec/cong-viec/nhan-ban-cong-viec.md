@@ -10,7 +10,7 @@ Với tính năng **nhân bản**, bạn có thể tiết kiệm thời gian và
 
 * Vào **chi tiết công việc** → bấm **“...”** → chọn **“Nhân bản”**.
 
-(bổ sung ảnh )
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Sau khi xác nhận, bạn sẽ được chuyển sang chi tiết của công việc đã được nhân bản, với từ _copy_ được thêm vào tiêu đề.
 

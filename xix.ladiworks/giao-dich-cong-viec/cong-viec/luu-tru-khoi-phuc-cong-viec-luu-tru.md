@@ -8,11 +8,11 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 ## Cách lưu trữ Giao dịch&#x20;
 
-### Chế độ xem Quy trình&#x20;
+### Chế độ xem dạng chi tiết công việc
 
 * Trong giao diện chi tiết của Công việc bấm **Lưu trữ** từ menu “...”&#x20;
 
-**( bổ sung ảnh)**
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### **Chế độ xem dạng lưới**&#x20;
 
@@ -32,7 +32,7 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các công việc đã được bấm Lưu trữ&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 Ở mục ... ở từng công việc , bấm **Khôi phục** lại giao dịch để đưa lại giao dịch về trạng thái Mở
 
-**( bổ sung ảnh )**
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

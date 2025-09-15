@@ -8,13 +8,13 @@
 
 ## Khôi phục một giao dịch đã xóa&#x20;
 
-Để khôi phục một giao dịch đã xóa , truy cập ứng dụng **LadiWorks. chọn bộ lọc : Giao dịch đã xóa**&#x20;
+Để khôi phục một giao dịch đã xóa , truy cập ứng dụng **LadiWork. chọn bộ lọc : Giao dịch đã xóa**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở mục chi tiết giao dịch, góc bên phải, bấm nút **Mở lại**
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Điều này sẽ mở lại giao dịch ở đúng giai đoạn mà nó đã ở trước khi được đánh dấu là **“Xóa”**.
 

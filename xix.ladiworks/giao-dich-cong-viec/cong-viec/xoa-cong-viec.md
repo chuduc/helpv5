@@ -4,7 +4,7 @@
 
 * Trong giao diện chi tiết của giao dịch bấm **Xóa công việc** từ menu “...”&#x20;
 
-**( bổ sung ảnh)**
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### **Chế độ xem dạng lưới**&#x20;
 

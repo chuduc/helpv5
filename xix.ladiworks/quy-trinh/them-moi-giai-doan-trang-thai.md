@@ -2,7 +2,7 @@
 
 Một quy trình cho phép bạn tổ chức thông tin qua nhiều giai đoạn/trạng thái khác nhau, giúp việc quản lý trở nên dễ dàng và phù hợp với quy trình bán hàng hay xử lý dữ liệu của đội nhóm, công ty
 
-Để thêm mới giai đoạn/ trạng thái cho quy trình của bạn . truy cập ứng dụng **LadiWorks-> chọn quy trình** muốn thiết lập thông tin&#x20;
+Để thêm mới giai đoạn/ trạng thái cho quy trình của bạn . truy cập ứng dụng **LadiWork-> chọn quy trình** muốn thiết lập thông tin&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1467).png" alt=""><figcaption></figcaption></figure>
 

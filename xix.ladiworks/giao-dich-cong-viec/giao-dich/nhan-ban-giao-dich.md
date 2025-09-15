@@ -1,6 +1,6 @@
 # Nhân bản giao dịch
 
-Khi làm việc trong LadiWorks, đôi khi bạn cần có hai bản sao của cùng một giao dịch nhưng không muốn mất thời gian tạo lại từ đầu.
+Khi làm việc trong LadiWork, đôi khi bạn cần có hai bản sao của cùng một giao dịch nhưng không muốn mất thời gian tạo lại từ đầu.
 
 Với tính năng **nhân bản**, bạn có thể tiết kiệm thời gian và công sức, đồng thời nhanh chóng có một bản sao của giao dịch
 
@@ -10,7 +10,7 @@ Với tính năng **nhân bản**, bạn có thể tiết kiệm thời gian và
 
 * Vào **chi tiết giao dịch**→ bấm **“...”** → chọn **“Nhân bản”**.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Sau khi xác nhận, bạn sẽ được chuyển sang chi tiết của giao dịch đã được nhân bản, với từ _copy_ được thêm vào tiêu đề.
 

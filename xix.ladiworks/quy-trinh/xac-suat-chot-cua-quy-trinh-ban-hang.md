@@ -1,6 +1,6 @@
 # Xác suất chốt của quy trình bán hàng
 
-**Lập trình xác suất cho từng giai đoạn trong quy trình  giúp bạn hiểu rõ hơn về thu nhập của công ty, từ đó có thể lập ngân sách hiệu quả.**
+**Lập trình xác suất cho từng giai đoạn trong quy trình  giúp bạn hiểu rõ hơn về doanh thu dự kiến của công ty, từ đó có thể lập ngân sách hiệu quả.**
 
 Theo mặc định, xác suất ở mỗi giai đoạn được đặt là 100%, vì vậy bạn luôn có thể thấy giá trị chính xác được lập trình trong từng giao dịch. Điều này cũng cho phép phần tóm tắt  tổng giá trị giao dịch cho mỗi giai đoạn.
 
@@ -8,7 +8,7 @@ Theo mặc định, xác suất ở mỗi giai đoạn được đặt là 100%,
 
 ## Thiết lập xác suất giai đoạn
 
-Truy cập ứng dụng **LadiWorks** -> Chọn **Quy trình bán hàng** muốn chỉnh sửa thông tin&#x20;
+Truy cập ứng dụng **LadiWork** -> Chọn **Quy trình bán hàng** muốn chỉnh sửa thông tin&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1459).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Lưu ý :&#x20;
 
 **Khi xác suất được thiết lập**, phần tóm tắt giao dịch ở từng giai đoạn sẽ hiển thị dưới dạng tỷ lệ phần trăm so với tổng giá trị giao dịch của giai đoạn đó.
 
-1. Trong **chế độ Quy trình**, khi bạn xem thống kê giá trị doanh số của một giai đoạn, hệ thống sẽ tính ra **Giá trị trọng số** theo công thức:\
+1. Trong **chế độ dạng bảng (kanban)**, khi bạn xem thống kê giá trị doanh số của một giai đoạn, hệ thống sẽ tính ra **Giá trị trọng số** theo công thức:\
    **Giá trị trọng số = Tổng (Giá trị từng giao dịch × Xác suất chốt của giao dịch đó).**
 
 <figure><img src="../../.gitbook/assets/image (1462).png" alt=""><figcaption></figcaption></figure>
