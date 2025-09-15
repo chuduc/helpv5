@@ -76,15 +76,12 @@ Bạn có thể lưu trữ bất kỳ giao dịchnào không còn được quả
 
 ## Hành động bị hạn chế với giao dịch đã lưu trữ
 
-* **Chỉnh sửa:** không thể thay đổi tiêu đề, giá trị, giai đoạn, người sở hữu hoặc trường tùy chỉnh
-* **Liên kết:** không thể gắn hoạt động, gọi hoặc liên hệ mới
-* **Hiển thị:** ẩn khỏi hầu hết chế độ xem quy trình và danh sách
+* **Chỉnh sửa:** không thể thay đổi tiêu đề, giá trị, giai đoạn, người sở hữu hoặc trường tùy chỉnh, bất kỳ nội dung nào trong giao dịch&#x20;
 
 ***
 
 ## Hành động vẫn cho phép với giao dịch đã lưu trữ
 
-* Thêm/chỉnh sửa **ghi chú** (bao gồm comment và mention)
 * **Xuất dữ liệu** từ list view
 * **Tạo bản sao** từ giao dịch lưu trữ
 * Hiển thị trong **kết quả tìm kiếm**
