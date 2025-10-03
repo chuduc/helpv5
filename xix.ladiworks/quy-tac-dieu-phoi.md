@@ -8,9 +8,9 @@ Quy tắc điều phối  đặc biệt hữu ích trong môi trường có nhi�
 
 Chức năng này cho phép quản trị viên cấu hình nhiều quy tắc (Rule) theo độ ưu tiên, đồng thời theo dõi được lịch sử phân chia để đánh giá hiệu quả phân bổ nguồn lực.
 
-Truy cập ứng dụng **LadiWork -> Quy tắc điều phối**&#x20;
+Truy cập ứng dụng **LadiWork -> Cài đặt -> Quy tắc điều phối**&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1497).png" alt=""><figcaption></figcaption></figure>
 
 ## Cách thiết lập quy tắc điều phối tự động&#x20;
 
@@ -34,7 +34,7 @@ Có 2 loại người được gán để lựa chọn:
 
 
 
-* **Người dùng** – Những thành viên đang được kích hoạt quyền ứng dụng Pipelines trong tài khoản&#x20;
+* **Người dùng** – Những thành viên đang được kích hoạt quyền ứng dụng LadiWork trong tài khoản&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ Cuối cùng bấm **Xác nhận** để hoàn thiện việc thiết lập
 
 Truy cập ứng dụng **-> Quy tác điều phối -> Lịch sử phân công,** để xem được lịch sử phân chia các giao dịch/ công việc của tài khoản&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1498).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

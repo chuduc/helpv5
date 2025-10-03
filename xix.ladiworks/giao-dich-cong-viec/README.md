@@ -1,5 +1,7 @@
 # Giao dịch/ Công việc
 
-Truy cập ứng dụng **LadiWork -> Bâm nút Tạo Giao dịch/ Công việc** để thiết lập các thông tin chi tiết&#x20;
+Truy cập ứng dụng **LadiWork -> Chọn Space** để tạo mới các thông tin **Giao dịch/Công việc**
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1507).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1508).png" alt=""><figcaption></figcaption></figure>
