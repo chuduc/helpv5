@@ -10,7 +10,7 @@ Với tính năng **nhân bản**, bạn có thể tiết kiệm thời gian và
 
 * Vào **chi tiết giao dịch**→ bấm **“...”** → chọn **“Nhân bản”**.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1532).png" alt=""><figcaption></figcaption></figure>
 
 * Sau khi xác nhận, bạn sẽ được chuyển sang chi tiết của giao dịch đã được nhân bản, với từ _copy_ được thêm vào tiêu đề.
 

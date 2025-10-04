@@ -33,17 +33,17 @@ Bạn có thể lưu trữ bất kỳ giao dịchnào không còn được quả
 
 ## Cách lưu trữ Giao dịch&#x20;
 
-### Chế độ xem dạng bảng (kanban)&#x20;
+### Chế độ xem dạng bảng Kanban
 
 * Trong giao diện chi tiết của giao dịch bấm **Lưu trữ** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1528).png" alt=""><figcaption></figcaption></figure>
 
-### **Chế độ xem dạng lưới**&#x20;
+### **Chế độ xem dạng danh sách**
 
 * Trong chế độ xem danh sách giao dịch  dạng lưới, click vào dấu ... ỏ ngoài cùng bên phải và bấm **Lưu trữ**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1529).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -60,7 +60,7 @@ Bạn có thể lưu trữ bất kỳ giao dịchnào không còn được quả
 
 Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các giao dịch đã được bấm Lưu trữ&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1530).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -70,7 +70,7 @@ Bạn có thể lưu trữ bất kỳ giao dịchnào không còn được quả
 
 Ở mục ... ở từng giao dịch, bấm **Khôi phục** lại giao dịch để đưa lại giao dịch về trạng thái Mở
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1531).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
