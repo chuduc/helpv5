@@ -12,7 +12,7 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 * Trong giao diện chi tiết của Công việc bấm **Lưu trữ** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Chế độ xem dạng lưới**&#x20;
 
@@ -32,7 +32,7 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các công việc đã được bấm Lưu trữ&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -20,7 +20,7 @@
 Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc bên phải màn hình&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,17 +30,17 @@ Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc b�
 
 * Trong giao diện chi tiết của giao dịch bấm Thành công, Thất bại  từ thanh tiến trình&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ***
 
-### Chế độ xem dạng bảng (kanban)
+### Chế độ xem dạng bảng Kanban
 
 Chọn giao dịch muốn chuyển trạng thái , rồi kéo di chuyển xuống thanh công cụ, chọn mục Thành công, Thất bại&#x20;
 
-<figure><img src="../../../.gitbook/assets/thành công, thất bại deals.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/giai doạn 3.gif" alt=""><figcaption></figcaption></figure>
 
 ## 4. So sánh , ứng dụng của giao dịch thành công, thất bại&#x20;
 
