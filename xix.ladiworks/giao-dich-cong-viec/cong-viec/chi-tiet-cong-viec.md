@@ -1,10 +1,10 @@
-# Chi tiết giao dịch
+# Chi tiết công việc
 
 Truy cập ứng dụng **LadiWork -> chọn quy trình liên quan Làm việc ->** Click vào **Công việc** muốn xem chi tiết thông tin&#x20;
 
 Chế độ xem công việc chi tiết  chứa tất cả thông tin liên quan đến một công việc, bao gồm thông tin khách hàng , tệp, hoạt động hoặc ghi chú.
 
-<figure><img src="../../../.gitbook/assets/image (1490).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1542).png" alt=""><figcaption></figcaption></figure>
 
 Bạn có thể xem chi tiết thông tin công việc, bổ sung thêm mô tả,tài liệu,  thêm hạng mục và việc cần làm để quá trình xử lý được chặt chẽ và thống nhất.
 
@@ -14,7 +14,7 @@ Khi thiết lập ngày thời hạn, trong trường hợp quá thời hạn, c
 
 Ví dụ như ngày hôm nay là 9/9/2025 nhưng Công việc có ngày hoàn thiện 2/9/2025 vẫn chưa chuyển sang hoàn thiện&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1491).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1543).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;👉 **Lợi ích:** Giúp bạn dễ dàng xem được công việc nào sắp đến hạn hay đã quá hạn xử lý để thúc đẩy việc follow up
 
@@ -24,7 +24,7 @@ Ví dụ như ngày hôm nay là 9/9/2025 nhưng Công việc có ngày hoàn th
 
 * **Mục đích:** Dùng để ghi lại các thông tin chi tiết, bối cảnh, hoặc tình trạng hiện tại liên quan đến công việc/vấn đề.
 * **Cách thực hiện:**
-  1. Ở phần **Mô tả**, bấm vào nút **Chỉnh sửa** (góc bên phải).
+  1. Ở phần **Mô tả**, click vào mục Thêm mô tả công việc&#x20;
   2. Nhập nội dung mô tả chi tiết (ví dụ: tình trạng lỗi, yêu cầu từ khách hàng, các bước đã thử xử lý…).
   3. Lưu lại để hiển thị trên màn hình công việc.
 
@@ -35,10 +35,13 @@ Ví dụ như ngày hôm nay là 9/9/2025 nhưng Công việc có ngày hoàn th
 ## **3. Thêm tài liệu**
 
 * **Mục đích:** Lưu trữ và đính kèm các file liên quan để hỗ trợ xử lý công việc (ảnh chụp màn hình, báo cáo log, tài liệu hướng dẫn, hợp đồng, v.v…).
-* **Cách thực hiện:**
-  1. Ở phần **Tài liệu**, bấm vào nút **+ Thêm tài liệu**.
-  2. Chọn file cần tải lên từ máy tính.
-  3. Sau khi tải thành công, tài liệu sẽ được hiển thị ngay dưới mục này.
+*   **Cách thực hiện:**
+
+    1. Ở phần **Tài liệu**, bấm vào nút **+ Thêm tài liệu**.
+    2. Chọn file cần tải lên từ máy tính.
+    3. Sau khi tải thành công, tài liệu sẽ được hiển thị ngay dưới mục này.
+
+    <figure><img src="../../../.gitbook/assets/image (1544).png" alt=""><figcaption></figcaption></figure>
 
 👉 **Lợi ích:** Giúp tập trung toàn bộ tài liệu liên quan tại một nơi, dễ dàng cho việc tra cứu và phối hợp giữa các thành viên.
 
@@ -52,6 +55,8 @@ Ví dụ như ngày hôm nay là 9/9/2025 nhưng Công việc có ngày hoàn th
 * Sau khi tạo, trong mỗi hạng mục bạn có thể thêm các “việc cần làm” cụ thể.
 
 👉 **Lợi ích:** Giúp phân loại công việc rõ ràng, dễ theo dõi tiến trình xử lý.
+
+<figure><img src="../../../.gitbook/assets/image (1546).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -67,13 +72,19 @@ Ví dụ như ngày hôm nay là 9/9/2025 nhưng Công việc có ngày hoàn th
 
 👉 **Lợi ích:** Giúp bạn kiểm soát chi tiết từng bước cần thực hiện, tránh bỏ sót và dễ theo dõi tiến độ.
 
+<figure><img src="../../../.gitbook/assets/image (1547).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ***
 
 ## 6.Lịch sử thay đổi&#x20;
 
 * Cho phép bạn xem lịch sử thay đổi của công việc&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1492).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1550).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 7.Đánh dấu hoàn thành công việc&#x20;
 
@@ -81,4 +92,4 @@ Sau khi xử lý công việc xong xuôi, bạn có thể bấm vào icon Tròn 
 
 Công việc sẽ mất đi ở danh sách đang mở hiện tại và chuyển sang bộ lọc Công việc hoàn thành
 
-<figure><img src="../../../.gitbook/assets/image (1493).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1551).png" alt=""><figcaption></figcaption></figure>
