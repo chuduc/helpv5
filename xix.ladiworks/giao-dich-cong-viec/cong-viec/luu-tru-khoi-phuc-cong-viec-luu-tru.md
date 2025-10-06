@@ -6,25 +6,25 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 ***
 
-## Cách lưu trữ Giao dịch&#x20;
+## Cách lưu trữ Công việc&#x20;
 
 ### Chế độ xem dạng chi tiết công việc
 
 * Trong giao diện chi tiết của Công việc bấm **Lưu trữ** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### **Chế độ xem dạng lưới**&#x20;
+### **Chế độ xem dạng danh sách**&#x20;
 
-* Trong chế độ xem danh sách công việc dạng lưới, click vào dấu ... ỏ ngoài cùng bên phải và bấm **Lưu trữ**
+Trong chế độ xem danh sách công việc dạng lưới, click vào dấu ... ỏ ngoài cùng bên phải và bấm **Lưu trữ**
 
-<figure><img src="../../../.gitbook/assets/image (1494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Khi đã lưu trữ
 
-* Giao dịch giữ nguyên trạng thái trước đó (Hoàn thiện. Chưa hoàn thiện)
+* Công việc giữ nguyên trạng thái trước đó (Hoàn thiện. Chưa hoàn thiện)
 
 ***
 
@@ -32,17 +32,17 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các công việc đã được bấm Lưu trữ&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Khôi phục các công việc đã lưu trữ&#x20;
 
-Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các giao dịch đã được bấm Lưu trữ&#x20;
+Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các công việc đã được bấm Lưu trữ&#x20;
 
-Ở mục ... ở từng công việc , bấm **Khôi phục** lại giao dịch để đưa lại giao dịch về trạng thái Mở
+Ở mục ... ở từng công việc , bấm **Khôi phục** lại công việc để đưa lại giao dịch về trạng thái Mở
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
