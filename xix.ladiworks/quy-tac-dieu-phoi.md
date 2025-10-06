@@ -18,11 +18,11 @@ _Lưu ý: Bạn có thể thêm tối đa 10 quy tắc điều phối ở trạn
 
 Nhấp vào **“+ Thêm quy tắc mới”** để tạo một quy tắc gán tự động mới.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn xác định **Trường dữ liệu** muốn làm điều kiện cho phân chia giao dịch công việc&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi điều kiện đã được xác định, bạn cần chọn người dùng được gán cụ thể&#x20;
 
@@ -30,19 +30,19 @@ Có 2 loại người được gán để lựa chọn:
 
 *   **Người tạo giao dịch** : là người tạo ra giao dịch đáp ứng với điều kiện phân chia tự động&#x20;
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **Người dùng** – Những thành viên đang được kích hoạt quyền ứng dụng LadiWork trong tài khoản&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi thiết lập các điều kiện và người dùng , bạn nhập Tên cho phần quy tắc và bấm Kích hoạt quy tắc&#x20;
 
 Cuối cùng bấm **Xác nhận** để hoàn thiện việc thiết lập
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@ Truy cập ứng dụng **-> Quy tác điều phối -> Lịch sử phân công,
 
 <figure><img src="../.gitbook/assets/image (1498).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trong đó, mỗi dòng lịch sử thể hiện được:&#x20;
 

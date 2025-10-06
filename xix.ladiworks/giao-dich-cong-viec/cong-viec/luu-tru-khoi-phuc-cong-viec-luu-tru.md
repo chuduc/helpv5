@@ -12,13 +12,13 @@ Khi dữ liệu công việc của bạn ngày càng nhiều, việc giữ cho k
 
 * Trong giao diện chi tiết của Công việc bấm **Lưu trữ** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### **Chế độ xem dạng danh sách**&#x20;
 
 Trong chế độ xem danh sách công việc dạng lưới, click vào dấu ... ỏ ngoài cùng bên phải và bấm **Lưu trữ**
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -32,7 +32,7 @@ Trong chế độ xem danh sách công việc dạng lưới, click vào dấu .
 
 Ở phần chế độ xem, chọn mục **Lưu trữ** để xem lại danh sách các công việc đã được bấm Lưu trữ&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ Trong chế độ xem danh sách công việc dạng lưới, click vào dấu .
 
 Ở mục ... ở từng công việc , bấm **Khôi phục** lại công việc để đưa lại giao dịch về trạng thái Mở
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

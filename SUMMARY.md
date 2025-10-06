@@ -408,6 +408,7 @@
     * [Nhân bản công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/nhan-ban-cong-viec.md)
     * [Xóa công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/xoa-cong-viec.md)
     * [Khôi phục công việc đã xóa](xix.ladiworks/giao-dich-cong-viec/cong-viec/khoi-phuc-cong-viec-da-xoa.md)
+    * [Hoàn thành công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/hoan-thanh-cong-viec.md)
     * [Thay đổi giai đoạn,quy trình bất kỳ của 1 công việc](xix.ladiworks/giao-dich-cong-viec/cong-viec/thay-doi-giai-doan-quy-trinh-bat-ky-cua-1-cong-viec.md)
 * [Quy trình](xix.ladiworks/quy-trinh/README.md)
   * [Nhân bản quy trình](xix.ladiworks/quy-trinh/nhan-ban-quy-trinh.md)
