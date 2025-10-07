@@ -4,7 +4,7 @@
 
 Đầu tiên, bạn cần vào phần **Cài đặt-> Thành viên-> Thêm thành viên vào tài khoản** để thêm thành viên đó vào tài khoản của bạn
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bấm vào mục Tạo Thành Viên mới , điền tên email thành viên và chọn quyền trong tài khoản&#x20;
 
@@ -14,7 +14,7 @@ Bấm vào mục Tạo Thành Viên mới , điền tên email thành viên và 
 
 Sau khi thành viên đã thêm thành công vào tài khoản phân quyền, bạn vào mục **Danh sách Team**, , chọn **Tạo Team Mớ**i, để thiết lập các Team&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

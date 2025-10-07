@@ -31,7 +31,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 Bạn cần dán đường dẫn builder như trong hình tại app shopify của bạn:
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * App URL: https://app.ladipage.com/
 * Preferences URL: https://app.ladipage.com/
