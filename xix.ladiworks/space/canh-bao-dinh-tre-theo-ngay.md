@@ -36,7 +36,7 @@ Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu
 
 Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem dạng bảng Kanban
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nếu giao dịch/ công việc bị đình trệ, bạn có thể khôi phục bằng cách:
 

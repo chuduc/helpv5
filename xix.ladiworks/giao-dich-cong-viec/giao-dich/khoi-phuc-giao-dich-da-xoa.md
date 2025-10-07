@@ -10,7 +10,7 @@
 
 Để khôi phục một giao dịch đã xóa , truy cập ứng dụng **LadiWork. chọn bộ lọc : Giao dịch đã xóa**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở mục chi tiết giao dịch, góc bên phải, bấm nút **Mở lại**
 

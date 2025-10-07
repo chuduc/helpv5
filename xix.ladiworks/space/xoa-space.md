@@ -12,13 +12,13 @@ Việc xóa này sẽ cho phép bạn lựa chọn xóa hoàn toàn đi giao d�
 
 Truy cập ứng dụng **LadiWork -> Chuyển đổi Space -> chọn Space** muốn xóa **,**&#x74;ruy cập vào Space
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau đó chuyển sang **Tab Cài đặt -> Thiết lập Space**&#x20;
 
 Ở góc bên tay phải, dấu ... , chọn mục **Xóa Space**
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Trường hợp 1:** Nếu Space bị xóa **không có giao dịch/công việc**, hệ thống sẽ hiển thị một popup thông báo. Bạn chỉ cần chọn **Xóa Space** để hoàn tất thao tác.
 

@@ -16,11 +16,11 @@ Sau đó chuyển sang **Tab Cài đặt -> Thiết lập Space**&#x20;
 
 Ở từng cột giai đoạn, chọn **Xóa giai đoạn**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Trường hợp 1:** Nếu giai đoạn bị xóa **không có giao dịch/công việc**, hệ thống sẽ hiển thị một popup thông báo. Bạn chỉ cần chọn **Xóa giai đoạn** để hoàn tất thao tác.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Trường hợp 2:** Nếu giai đoạn đang bị xóa có chứa giao dịch/công việc, hệ thống sẽ hiển thị một popup thông báo. Tại đây, bạn có thể lựa chọn:
 
@@ -31,6 +31,6 @@ Sau đó chuyển sang **Tab Cài đặt -> Thiết lập Space**&#x20;
 Giai đoạn đã được xóa sẽ KHÔNG thể khôi phục&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi lựa chọn hình thức xử lý tương ứng cho giao dịch/công việc thuộc giai đoạn, bấm nút **Xóa** để hoàn thiện thao tác&#x20;

@@ -6,7 +6,7 @@ Truy cập app.ladipage.com , góc trên cùng bên phải builder, mục Quản
 
 
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ Truy cập app.ladipage.com , góc trên cùng bên phải builder, mục Quản
 * Nhấn nút **“Thay đổi mật khẩu của bạn”** để cập nhật mật khẩu mới.
 * Hệ thống sẽ yêu cầu bạn nhập mật khẩu hiện tại và mật khẩu mới.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Lưu ý: Nên sử dụng mật khẩu có độ mạnh cao (bao gồm chữ hoa, chữ thường, số, ký tự đặc biệt).
 
@@ -44,7 +44,7 @@ Quản lý danh sách các thiết bị tin cậy đã đăng nhập tài khoả
 
 * Danh sách thiết bị truy cập vào tài khoản, bao gồm trình duyệt, IP truy cập&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Nhấn **dấu ❌** để **xóa thiết bị tin cậy** khỏi danh sách nếu không còn sử dụng.
 * Hệ thống sẽ yêu cầu xác minh lại nếu bạn đăng nhập lại từ thiết bị đã bị xóa.

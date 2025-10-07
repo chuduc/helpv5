@@ -4,7 +4,7 @@
 
 * Trong giao diện chi tiết của giao dịch bấm **Xóa công việc** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@
 
 * Trong chế độ xem danh sách giao dịch dạng danh sách,  click vào dấu ... ở ngoài cùng bên phải và bấm **Xóa**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Chế độ xem bảng Kanban
 

@@ -29,7 +29,7 @@ Truy cập ứng dụng **LadiWork-> Chuyển đổi Space-> Thêm Space mới  
 
 Space sẽ được thêm vào tài khoản và bạn có thể bắt đầu chỉnh sửa các giai đoạn của nó. Khi các giai đoạn đã đúng như mong muốn, nhấn **“Cập nhật thay đổi ”** để lưu.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

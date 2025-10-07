@@ -2,7 +2,7 @@
 
 Các bộ lọc này giúp bạn **nhanh chóng phân loại và quản lý giao dịch** theo nhiều tiêu chí khác nhau.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Bộ lọc - trả lời cho câu hỏi : xem cái gì&#x20;
 

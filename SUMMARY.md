@@ -391,7 +391,6 @@
 
 ## XIX.LadiWorks
 
-* [Quy tắc điều phối](xix.ladiworks/quy-tac-dieu-phoi.md)
 * [Các chế độ xem của giao dịch/công việc](xix.ladiworks/cac-che-do-xem-cua-giao-dich-cong-viec.md)
 * [Giao dịch/ Công việc](xix.ladiworks/giao-dich-cong-viec/README.md)
   * [Giao dịch](xix.ladiworks/giao-dich-cong-viec/giao-dich/README.md)
@@ -419,3 +418,6 @@
   * [Xóa giai đoạn](xix.ladiworks/space/xoa-giai-doan.md)
   * [Thay đổi thứ tự của giai đoạn/ trạng thái](xix.ladiworks/space/thay-doi-thu-tu-cua-giai-doan-trang-thai.md)
 * [Bộ lọc](xix.ladiworks/bo-loc.md)
+* [Cài đặt](xix.ladiworks/cai-dat/README.md)
+  * [Quy tắc điều phối](xix.ladiworks/cai-dat/quy-tac-dieu-phoi.md)
+  * [Thông báo](xix.ladiworks/cai-dat/thong-bao.md)

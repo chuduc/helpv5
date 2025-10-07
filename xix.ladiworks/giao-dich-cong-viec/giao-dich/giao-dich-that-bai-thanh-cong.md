@@ -20,7 +20,7 @@
 Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc bên phải màn hình&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ Bạn xem các giao dịch thành công, thất bại ở bộ lọc ở góc b�
 
 * Trong giao diện chi tiết của giao dịch bấm Thành công, Thất bại  từ thanh tiến trình&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
