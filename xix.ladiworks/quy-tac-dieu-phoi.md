@@ -18,7 +18,7 @@ _Lưu ý: Bạn có thể thêm tối đa 10 quy tắc điều phối ở trạn
 
 Nhấp vào **“+ Thêm quy tắc mới”** để tạo một quy tắc gán tự động mới.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn xác định **Trường dữ liệu** muốn làm điều kiện cho phân chia giao dịch công việc&#x20;
 
