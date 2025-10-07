@@ -67,7 +67,7 @@ Sau khi thêm tên miền, bạn bấm vào icon ... chọn Xác thực tên mi�
 
 Bạn cần vào lại phần plugin LadiApp trong quản trị Wordpress, và sao chép đoạn Key trong thông báo trên và dán vào phần như ảnh và ấn Publish.
 
-![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Đường dẫn landing page xuất bản sẽ hiển thị ngay trong tài khoản Wordpress của bạn khi bạn bấm Publish. Bạn sao chép đường dẫn đó và dán vào thanh trình duyệt để ra trang landing page xuất bản.
 

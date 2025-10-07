@@ -1,11 +1,11 @@
 # Cảnh báo đình trệ theo ngày
 
-Trong LadiWork, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/công việc **đã nằm quá lâu ở một giai đoạn trong quy trình mà không có hoạt động mới**.
+Trong LadiWork, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/công việc **đã nằm quá lâu ở một giai đoạn trong Space mà không có hoạt động mới**.
 
 Cụ thể:
 
-* Mỗi giai đoạn trong quy trình có thể được cài đặt một “thời gian đình trệ” (ví dụ: 7 ngày, 14 ngày).
-* Nếu một giao dịch/công việc không được cập nhật hoặc không có hoạt động trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị cảnh báo đình trệ.
+* Mỗi giai đoạn trong Space có thể được cài đặt một “**thời gian đình trệ**” (ví dụ: 7 ngày, 14 ngày).
+* Nếu một giao dịch/công việc không được cập nhật hoặc không có hoạt động trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị **cảnh báo đình trệ.**
 * Trên giao diện, thường bạn sẽ thấy giao dịch/công việc đổi màu (thường là màu đỏ hoặc có dấu hiệu trực quan) để dễ nhận biết.
 
 Mục đích của cảnh báo đình trệ:
@@ -18,15 +18,15 @@ Mục đích của cảnh báo đình trệ:
 
 ## Thiết lập tính năng Đình trệ
 
-Truy cập ứng dụng **LadiWork -> Chọn Quy Trình** muốn thiết lập tính năng đình trệ&#x20;
+Truy cập ứng dụng **LadiWork -> Chọn Space** muốn thiết lập tính năng đình trệ&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1463).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cập nhật space 11 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
 Bật tùy chọn **“Cảnh báo đình trệ”**. Nhập số ngày không hoạt động sau đó giao dịch/ công việc ở giai đoạn này sẽ bị coi là đình trệ.
 
-<figure><img src="../../.gitbook/assets/image (1464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu lại thông tin&#x20;
 
@@ -34,9 +34,9 @@ Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu
 
 ## Giao dịch/Cồng việc của bạn bị đình trệ! Bạn phải làm gì?
 
-Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem Quy trình&#x20;
+Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem dạng bảng Kanban
 
-<figure><img src="../../.gitbook/assets/image (1466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Nếu giao dịch/ công việc bị đình trệ, bạn có thể khôi phục bằng cách:
 
@@ -54,4 +54,4 @@ Trong tình huống này, hãy cân nhắc lại cách bạn thiết lập giai 
 * Nếu bạn đặt thời gian đình trệ dài (ví dụ: 20 ngày) để phù hợp với các hoạt động diễn ra trong tương lai xa, điều đó có thể ảnh hưởng đến mục tiêu ngắn hạn và năng suất.
 * Ngược lại, nếu bạn đặt thời gian đình trệ ngắn, việc quản lý và sắp xếp các giao dịch/ công việc có hoạt động diễn ra trong tương lai sẽ trở nên khó khăn.
 
-Một chiến lược hữu ích là tạo nhiều Quy trình  hoặc nhiều giai đoạn dựa trên mức độ sớm bạn muốn hoàn thành hoạt động hoặc chốt giao dịch/ công việc
+Một chiến lược hữu ích là tạo nhiều Space hoặc nhiều giai đoạn dựa trên mức độ sớm bạn muốn hoàn thành hoạt động hoặc chốt giao dịch/ công việc

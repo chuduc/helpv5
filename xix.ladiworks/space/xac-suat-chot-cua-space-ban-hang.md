@@ -12,7 +12,7 @@ Truy cập ứng dụng **LadiWork** -> Chọn **Space** **bán hàng** muốn c
 
 Sau đó click sang mục **Thiết lập Space** để điều chỉnh thông tin&#x20;
 
-<figure><img src="../../.gitbook/assets/cập nhật space 11.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cập nhật space 11 (1).gif" alt=""><figcaption></figcaption></figure>
 
 Trong phần xác suất chốt của giai đoạn, nhập một con số từ 0 đến 100, và bấm **“Cập nhật thay đổi.”**
 

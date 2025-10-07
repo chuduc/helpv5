@@ -4,7 +4,7 @@ Các bộ lọc này giúp bạn **nhanh chóng phân loại và quản lý giao
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Bộ lọc (Filter các giao dịch )- trả lời cho câu hỏi : xem cái gì&#x20;
 

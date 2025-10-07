@@ -10,11 +10,11 @@
 
 Để khôi phục một công việc đã xóa , truy cập ứng dụng **LadiWork -> Chọn Space công việc -> Chọn bộ lọc : Công việc đã xóa**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở mục chi tiết công việc, góc bên phải, bấm nút **Mở lại**
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Điều này sẽ mở lại công việc ở đúng giai đoạn mà nó đã ở trước khi được đánh dấu là **“Xóa”**.
 
