@@ -18,13 +18,13 @@ _Lưu ý: Bạn có thể thêm tối đa 10 quy tắc điều phối ở trạn
 
 Nhấp vào **“+ Thêm quy tắc mới”** để tạo một quy tắc gán tự động mới.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn xác định **Space** muốn thiết lập quy tắc điều phối tự động, rồi chọn **Trường dữ liệu** muốn làm điều kiện cho phân chia giao dịch công việc&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi điều kiện đã được xác định, bạn cần chọn người dùng được gán cụ thể&#x20;
 
@@ -32,7 +32,7 @@ Có 2 loại người được gán để lựa chọn:
 
 * **Người tạo giao dịch** : là người tạo ra giao dịch đáp ứng với điều kiện phân chia tự động&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

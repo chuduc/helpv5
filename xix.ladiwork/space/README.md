@@ -12,7 +12,7 @@ Truy cập ứng dụng **LadiWork-> Chuyển đổi Space-> Thêm Space mới  
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Space bán hàng** :  quản lý kinh doanh trực quan, theo dõi cơ hội từ khi tiếp cận khách hàng cho đến khi ký kết hợp đồng . thiết lập các giai đoạn khác nhau của dự án kinh doanh của bạn
 * **Space làm việc** :  quản lý công việc linh hoạt, lựa cho tối ưu cho mọi quy trình làm việc, giúp thiết lập các trạng thái khác nhau trong công việc của bạn, thích hợp với tính chất hoạt động của từng team, từng công ty khác nhau
@@ -29,7 +29,7 @@ Truy cập ứng dụng **LadiWork-> Chuyển đổi Space-> Thêm Space mới  
 
 Space sẽ được thêm vào tài khoản và bạn có thể bắt đầu chỉnh sửa các giai đoạn của nó. Khi các giai đoạn đã đúng như mong muốn, nhấn **“Cập nhật thay đổi ”** để lưu.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -4,7 +4,7 @@
 
 * Trong giao diện chi tiết của giao dịch bấm **Xóa công việc** từ menu “...”&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

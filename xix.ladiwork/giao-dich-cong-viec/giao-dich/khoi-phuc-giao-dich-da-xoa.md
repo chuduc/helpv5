@@ -14,7 +14,7 @@
 
 Ở mục chi tiết giao dịch, góc bên phải, bấm nút **Mở lại**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Điều này sẽ mở lại giao dịch ở đúng giai đoạn mà nó đã ở trước khi được đánh dấu là **“Xóa”**.
 

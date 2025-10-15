@@ -421,3 +421,4 @@
 * [Cài đặt](xix.ladiwork/cai-dat/README.md)
   * [Quy tắc điều phối](xix.ladiwork/cai-dat/quy-tac-dieu-phoi.md)
   * [Thông báo](xix.ladiwork/cai-dat/thong-bao.md)
+  * [Thành viên, phân quyền](xix.ladiwork/cai-dat/thanh-vien-phan-quyen.md)

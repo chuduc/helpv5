@@ -26,7 +26,7 @@ Truy cập ứng dụng **LadiWork -> Chọn Space** muốn thiết lập tính 
 
 Bật tùy chọn **“Cảnh báo đình trệ”**. Nhập số ngày không hoạt động sau đó giao dịch/ công việc ở giai đoạn này sẽ bị coi là đình trệ.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu lại thông tin&#x20;
 
@@ -36,7 +36,7 @@ Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu
 
 Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem dạng bảng Kanban
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nếu giao dịch/ công việc bị đình trệ, bạn có thể khôi phục bằng cách:
 
