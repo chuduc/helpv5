@@ -32,7 +32,7 @@ Nhấn **“Cập nhật thay đổi ”** ở góc trên bên phải để lưu
 
 ***
 
-## Giao dịch/Cồng việc của bạn bị đình trệ! Bạn phải làm gì?
+## Giao dịch/Công việc của bạn bị đình trệ! Bạn phải làm gì?
 
 Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ **ô giao dịch/ công việc chuyển sang màu đỏ** trong chế độ xem dạng bảng Kanban
 
