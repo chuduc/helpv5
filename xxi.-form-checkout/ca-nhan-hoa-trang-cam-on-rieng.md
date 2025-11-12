@@ -9,7 +9,7 @@ description: >-
 
 Trang cảm ơn sẽ hiển thị trong các trường hợp sau : trang áp dụng phương thức thanh toán của các cổng thanh toán như Vnpay, VnPT epay .. hoặc phương thanh thanh toán Bank mà tự động xác nhận được đơn hàng&#x20;
 
-Bạn có thể tự thiết kế một trang cảm ơn riêng từ kho giao diện mẫu của LadiPage hoặc tải về **mẫu trang cảm ơn được thiết kế riêng cho Form Checkout dưới dạng file .ladipage** tại: [http://s.ldplink.me/dl-checkout-confirm](http://s.ldplink.me/dl-checkout-confirm)
+Bạn có thể tự thiết kế một trang cảm ơn riêng từ kho giao diện mẫu của LadiPage hoặc tải về **mẫu trang cảm ơn được thiết kế riêng cho Form Checkout dưới dạng file .ladipage** tại: [http://s.ldplink.me/dl-checkout](http://s.ldplink.me/dl-checkout)
 
 1.  Tạo Landing Page mới từ thư viện mẫu hoặc tải lên file **checkout-confirmation-example-page.ladipage** đã tải về.\
 
