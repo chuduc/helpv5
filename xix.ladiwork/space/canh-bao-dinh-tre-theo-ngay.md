@@ -1,11 +1,11 @@
 # Cảnh báo đình trệ theo ngày
 
-Trong LadiWork, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/công việc **đã nằm quá lâu ở một giai đoạn trong Space mà không có hoạt động mới**.
+Trong LadiWork, **cảnh báo đình trệ** là tính năng báo hiệu cho bạn biết một giao dịch/công việc **đã nằm quá lâu ở một giai đoạn trong Space mà không chuyển sang 1 giai đoạn mới**.
 
 Cụ thể:
 
 * Mỗi giai đoạn trong Space có thể được cài đặt một “**thời gian đình trệ**” (ví dụ: 7 ngày, 14 ngày).
-* Nếu một giao dịch/công việc không được cập nhật hoặc không có hoạt động trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị **cảnh báo đình trệ.**
+* Nếu một giao dịch/công việc không được cập nhật sang 1 giai đoạn mới trong khoảng thời gian đó, giao dịch/ công việc sẽ hiển thị **cảnh báo đình trệ.**
 * Trên giao diện, thường bạn sẽ thấy giao dịch/công việc đổi màu (thường là màu đỏ hoặc có dấu hiệu trực quan) để dễ nhận biết.
 
 Mục đích của cảnh báo đình trệ:
@@ -40,8 +40,9 @@ Bạn sẽ biết một giao dịch/ công việc đã bị đình trệ nhờ *
 
 Nếu giao dịch/ công việc bị đình trệ, bạn có thể khôi phục bằng cách:
 
-* Lên lịch một hoạt động mới cho giao dịch/ công việc
-* Chỉnh sửa bất kỳ chi tiết nào của giao dịch/ công việc, chẳng hạn như trường tùy chỉnh, ngày kết thúc dự kiến, giá trị, v.v.
+* Tăng thời gian đình trệ của giai đoạn trong mục thiết lập Space&#x20;
+* Chuyển sang 1 bước khác, rồi lại chuyển lại về bước&#x20;
+* Chuyển sang 1 bước mới&#x20;
 
 ***
 
