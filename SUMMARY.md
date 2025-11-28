@@ -227,7 +227,7 @@
   * [Sự kiện ẩn/hiện phần tử](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-an-hien-phan-tu.md)
   * [Sự kiện mở liên kết](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-lien-ket.md)
   * [Sự kiện mở cuộc gọi](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-cuoc-goi.md)
-  * [sự kiện chuyển section cho phần tử](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-chuyen-section-cho-phan-tu.md)
+  * [Sự kiện chuyển section ](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-chuyen-section.md)
   * [Sự kiện Set Value](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-set-value.md)
   * [Sự kiện mở popup](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-popup.md)
   * [Sự kiện Collapse](xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-collapse.md)

@@ -1,4 +1,4 @@
-# Sự kiện chuyển section
+# Sự kiện chuyển section&#x20;
 
 Sự kiện chuyển Section thường được ứng dụng cho Menu ở đầu trang để khách hàng bấm vào đề mục sẽ được chuyển đến phần section tương ứng, hoặc bấm vào phần tử sẽ kéo tới form đăng ký (form đăng ký nằm trên section).
 
