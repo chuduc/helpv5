@@ -1,8 +1,7 @@
 # Lưu data về GetResponse
 
-**Bước 1: Tạo tài khoản liên kết.**\
-
-
+**Bước 1: Tạo tài khoản liên kết.**<br>
+---------------------------------------
 
 **Cách 1 : Tạo tài khoản liên kết từ mục Cài đặt** \
 Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn menu **Cài đặt -> Tích hợp-> Tài khoản liên kết**. Sau đó lựa chọn Loại tài khoản là **GetResponse**

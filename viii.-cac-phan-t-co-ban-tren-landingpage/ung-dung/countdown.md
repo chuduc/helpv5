@@ -42,7 +42,7 @@ Khi đồng hồ đếm ngược về 0, bạn có thể cài đặt sự kiện
 #### Mẹo thiết kế Đồng hồ đếm ngược
 
 1. Để bo góc phần nền của đồng hồ đếm ngược bạn có thể thiết lập ở mục Viền & Bo góc.
-2. Bạn có thể thêm nhãn Ngày / Giờ / Phút / Giây bằng cách thêm phần tử [Tiêu đề](broken-reference), thay đổi kích thước màu sắc cho phù hợp và di chuyển đến vị trí tương ứng.
+2. Bạn có thể thêm nhãn Ngày / Giờ / Phút / Giây bằng cách thêm phần tử [Tiêu đề](/broken/pages/-LlAyP-b5056D5B7-KH_#tieu-de), thay đổi kích thước màu sắc cho phù hợp và di chuyển đến vị trí tương ứng.
 
 
 {% endhint %}

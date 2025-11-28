@@ -11,7 +11,7 @@ Hoặc bạn vào phần Thêm mới--> Phần tử--> Biểu tượng và tìm 
 <figure><img src="../.gitbook/assets/menu2.png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3: Liên kết các mục menu đến section tương ứng hoặc tới trang khác.** \
-**(Xem thêm hướng dẫn** [**liên kết đến section**](broken-reference) **và** [**liên kết mở liên kết**](https://help.ladipage.vn/su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-lien-ket)**).**
+**(Xem thêm hướng dẫn** [**liên kết đến section**](/broken/pages/-LwRPDh8YTU6tQYORsey) **và** [**liên kết mở liên kết**](https://help.ladipage.vn/su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-lien-ket)**).**
 
 <figure><img src="../.gitbook/assets/popupmenu.png" alt=""><figcaption></figcaption></figure>
 

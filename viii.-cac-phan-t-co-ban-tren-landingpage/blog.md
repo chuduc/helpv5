@@ -40,8 +40,7 @@ Trên phần tử trong Collection List, vào mục Thuộc tính, chọn Sự k
 
 Trong trường hợp bạn muốn đi liên kết 1 nôi dung trên Collection List hoặc POPUP BLOG đến URL đã tạo trong phần nội dung của Collection Blog, bạn làm theo hướng dẫn sau
 
-\
-
+<br>
 
 ![Cách đi liên kết đến url trong colletion blog](<../.gitbook/assets/image (1143).png>)
 

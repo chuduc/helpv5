@@ -1,6 +1,6 @@
 # 10. Facebook Chat
 
-Ngoài các [phần mềm livechat](broken-reference) chuyên dụng, bạn cũng có thể điều hướng khách hàng về phần Messenger của Fanpage để hỗ trợ. Nếu bạn có cài chat bot cho messenger thì có thể chốt đơn với khách hàng ngay tại đây.
+Ngoài các [phần mềm livechat](/broken/pages/-LlB45l8Ii9ZDD-ebLyR) chuyên dụng, bạn cũng có thể điều hướng khách hàng về phần Messenger của Fanpage để hỗ trợ. Nếu bạn có cài chat bot cho messenger thì có thể chốt đơn với khách hàng ngay tại đây.
 
 Tuy nhiên bạn chỉ có thể điều hướng khách hàng sang hẳn trang messenger từ Landing Page chứ không giống các phần mềm livechat khác mà khách hàng có thể chat trực tiếp với bạn trên Landing Page.
 

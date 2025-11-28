@@ -37,8 +37,7 @@ Lưu ý: Anh/chị đăng ký tạo tài khoản tại Egashop để thực hi�
 
 6\. Quay lại dashboard egaShop, chọn "Lấy mã nhúng" của nhóm sản phẩm và copy đoạn mã
 
-\
-
+<br>
 
 ![](<../.gitbook/assets/image (1150).png>)
 

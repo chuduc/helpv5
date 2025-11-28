@@ -178,7 +178,7 @@ Trong đó:
 
 Bấm **Cập nhật** và xuất bản lại Landing Page để lưu thay đổi.
 
-Nếu bạn đồng thời gắn mã Google Analytics cho sự kiện này thì khi đã chọn mục **Không chọn** phía trên, bạn cần bổ sung thêm đoạn mã code của Google Analytics trong phần mã tùy chỉnh nâng cao, ngay phía dưới đoạn mã Pixel bạn vừa thêm ở trên. Xem hướng dẫn [tại đây.](broken-reference)
+Nếu bạn đồng thời gắn mã Google Analytics cho sự kiện này thì khi đã chọn mục **Không chọn** phía trên, bạn cần bổ sung thêm đoạn mã code của Google Analytics trong phần mã tùy chỉnh nâng cao, ngay phía dưới đoạn mã Pixel bạn vừa thêm ở trên. Xem hướng dẫn [tại đây.](/broken/pages/-LwSn8wrbUMdFs-9e_7E#ma-tuy-chinh-nang-cao)
 
 ## Cài đặt theo dõi cho trang cảm ơn khác.
 

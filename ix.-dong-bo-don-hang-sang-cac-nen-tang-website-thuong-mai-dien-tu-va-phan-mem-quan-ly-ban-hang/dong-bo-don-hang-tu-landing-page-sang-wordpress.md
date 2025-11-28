@@ -77,8 +77,7 @@ Quay trở lại form trên trang Landing Page, chọn toàn form bạn đang mu
 
 &#x20;Sau khi chọn cấu hình form, bạn cần phải vào form dăng ký của bạn, chọn SẢN PHẨM trong wordpress sẽ hiển thị trên form của bạn theo [chi tiết hướng dẫn tại đây](https://help.ladipage.vn/dong-bo-don-hang-sang-cac-nen-tang-website-thuong-mai-dien-tu-va-phan-mem-quan-ly-ban-hang/tao-form-dang-ky-lien-ket-voi-cac-website-thuong-mai-dien-tu-phan-mem-quan-ly-ban-hang).
 
-Vậy là bạn đã hoàn thành việc đồng bộ đơn hàng từ Landing Page sang mục plugin **Woocommerce- Đơn hàng.**\
-
+Vậy là bạn đã hoàn thành việc đồng bộ đơn hàng từ Landing Page sang mục plugin **Woocommerce- Đơn hàng.**<br>
 
 ![](https://1356778738-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LfhC24FqqcE4wgm4W6R%2F-MK42dPhikAlPpXf7TPU%2F-MK49EoRhmyzRcWw6C4y%2Fimage.png?alt=media\&token=79b3d634-bbb7-4c0e-89f4-a251a99185bd)
 

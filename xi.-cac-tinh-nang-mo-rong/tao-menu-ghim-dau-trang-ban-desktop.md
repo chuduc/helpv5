@@ -15,7 +15,7 @@ Bạn có thể sử dụng section menu mẫu tại LadiPage.
 Bạn có thể thêm nút bấm, tiêu đề text.. để làm nội dung tiêu đề của Menu tại thanh công cụ nhanh hoặc vào **Thêm mới--> Phần tử-->** chọn nội dung bạn muốn sử dụng.
 
 **Bước 3: Thiết lập liên kết các tiêu đề menu với section có nội dung tương ứng hoặc trang khác:**\
-&#xNAN;_(tham khảo thêm hướng dẫn_ [_sự kiện chuyển section_](../xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-chuyen-section.md) _và_ [_sự kiện mở liên kết_](https://help.ladipage.vn/su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-lien-ket)_)_
+&#xNAN;_(tham khảo thêm hướng dẫn_ [_sự kiện chuyển section_](../xv.-su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-chuyen-section-cho-phan-tu.md) _và_ [_sự kiện mở liên kết_](https://help.ladipage.vn/su-kien-cho-phan-tu/su-kien-nhap-chuot/su-kien-mo-lien-ket)_)_
 
 **Bước cuối: Đẩy section menu vừa tạo lên trên cùng và ghim section đó lại:**
 

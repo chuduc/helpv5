@@ -18,8 +18,7 @@ Points to: dns.ladipage.com
 
 Type: A\
 Name: @\
-Points to: 13.229.38.226\
-
+Points to: 13.229.38.226<br>
 
 **2. Trỏ tên miền phụ:**&#x20;
 

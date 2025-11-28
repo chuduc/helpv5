@@ -17,8 +17,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-**Cách 3 :** Truy cập builder chỉnh sửa trang landingpage muốn lưu data về  **Hubspot**, ở phần **Form đăng ký, mục Lưu data, bấm Thêm mới , chọn Tạo liên kết ->Loại tài khoản là Hubspot**\
-
+**Cách 3 :** Truy cập builder chỉnh sửa trang landingpage muốn lưu data về  **Hubspot**, ở phần **Form đăng ký, mục Lưu data, bấm Thêm mới , chọn Tạo liên kết ->Loại tài khoản là Hubspot**<br>
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 

@@ -38,7 +38,7 @@ Sau khi nói cho khách hàng biết chúng ta làm được gì, hãy để h�
 
 Đã đến lúc khách hàng cần phải hành động. Đây là phần trình diễn của Form đăng ký và CTA.
 
-Nếu như sản phẩm hoặc giá trị bạn đưa đến cho khách hàng đơn giản, và người xem không cần phải nghĩ quá nhiều để ra quyết định thì đặt CTA ngay ở phân mục đầu tiên sẽ có tác dụng tốt nhất. Phần này đã được nói ở bài  [mini landing page](broken-reference).
+Nếu như sản phẩm hoặc giá trị bạn đưa đến cho khách hàng đơn giản, và người xem không cần phải nghĩ quá nhiều để ra quyết định thì đặt CTA ngay ở phân mục đầu tiên sẽ có tác dụng tốt nhất. Phần này đã được nói ở bài  [mini landing page](/broken/pages/-LfhaHKQgAKftJN4yynG).
 
 Nếu như sản phẩm/đề nghị của bạn phức tạp, và thường người xem phải thông qua nhiều thông tin để ra quyết định thì ta đặt CTA phía dưới cùng, sau khi đã cung cấp thông tin đủ để người xem đưa ra quyết định.
 

@@ -22,8 +22,7 @@ Target: dns.ladipage.com
 
 Record: A\
 Host: @\
-Target: 13.229.38.226\
-
+Target: 13.229.38.226<br>
 
 ## Trỏ tên miền phụ&#x20;
 

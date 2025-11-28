@@ -34,7 +34,7 @@ Danh sách các Collecton đã tạo sẽ quản lý trong mục : Thêm mới- 
 ## 2.Popup kết quả và Lời nhắn:
 
 Nếu bạn dùng Popup mặc định thì sẽ hiển thị phần nội dung LỜI NHẮN tương ứng ở phía dưới.\
-Trong trường hợp muốn dùng Popup tùy chọn, bạn [tạo 1 Popup mới](broken-reference) rồi sử dụng.
+Trong trường hợp muốn dùng Popup tùy chọn, bạn [tạo 1 Popup mới](/broken/pages/-LlB1x9qwgJpx4foVszh) rồi sử dụng.
 
 ## 3.Hình nền
 

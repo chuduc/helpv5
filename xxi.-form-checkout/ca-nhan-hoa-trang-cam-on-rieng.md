@@ -11,19 +11,16 @@ Trang cảm ơn sẽ hiển thị trong các trường hợp sau : trang áp d�
 
 Bạn có thể tự thiết kế một trang cảm ơn riêng từ kho giao diện mẫu của LadiPage hoặc tải về **mẫu trang cảm ơn được thiết kế riêng cho Form Checkout dưới dạng file .ladipage** tại: [http://s.ldplink.me/dl-checkout](http://s.ldplink.me/dl-checkout)
 
-1.  Tạo Landing Page mới từ thư viện mẫu hoặc tải lên file **checkout-confirmation-example-page.ladipage** đã tải về.\
-
+1.  Tạo Landing Page mới từ thư viện mẫu hoặc tải lên file **checkout-confirmation-example-page.ladipage** đã tải về.<br>
 
     <figure><img src="../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
 
-    Đặt tên cho Landing Page vừa tải lên sau đó bấm nút **Tạo Landing Page**\
-
+    Đặt tên cho Landing Page vừa tải lên sau đó bấm nút **Tạo Landing Page**<br>
 
     <figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Tùy biến nội dung và thiết kế của trang cảm ơn theo nhu cầu của bạn sau đó xuất bản Landing Page.\
-
+2.  Tùy biến nội dung và thiết kế của trang cảm ơn theo nhu cầu của bạn sau đó xuất bản Landing Page.<br>
 
     <figure><img src="../.gitbook/assets/image (110).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -40,8 +37,7 @@ Bạn có thể tự thiết kế một trang cảm ơn riêng từ kho giao di�
 | \{{product\_name\}} | Tên sản phẩm, dịch vụ đã mua |
 | \{{amount\_fm\}}    | Tổng tiền                    |
 
-4.  Xuất bản Landing Page và nhập đường dẫn xuất bản của Landing Page vừa thiết kế vào URL Cảm ơn ở phần **Cấu hình thanh toán -> Trang cảm ơn khác**\
-
+4.  Xuất bản Landing Page và nhập đường dẫn xuất bản của Landing Page vừa thiết kế vào URL Cảm ơn ở phần **Cấu hình thanh toán -> Trang cảm ơn khác**<br>
 
     <figure><img src="../.gitbook/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
 

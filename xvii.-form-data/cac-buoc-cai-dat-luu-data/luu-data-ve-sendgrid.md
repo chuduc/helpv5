@@ -17,8 +17,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-**Cách 3 :** Truy cập builder chỉnh sửa trang landingpage muốn lưu data về SendGrid, ở phần **Form đăng ký, mục Lưu data, bấm Thêm mới , chọn Tạo liên kết ->Loại tài khoản là SendGrid**\
-
+**Cách 3 :** Truy cập builder chỉnh sửa trang landingpage muốn lưu data về SendGrid, ở phần **Form đăng ký, mục Lưu data, bấm Thêm mới , chọn Tạo liên kết ->Loại tài khoản là SendGrid**<br>
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 

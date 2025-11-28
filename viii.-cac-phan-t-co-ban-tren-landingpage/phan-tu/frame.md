@@ -2,7 +2,7 @@
 
 Frame là một tính năng mạnh mẽ giúp bạn có thể thay đổi thiết kế của các phần tử giống nhau cùng một lúc. Tất cả các thiết kế có thể được đồng bộ giữa các frame, **ngoại trừ việc thay ảnh và thay chữ.** Cách làm như sau:
 
-* Thêm mới **Frame** và đưa các phần tử vào trong và sắp xếp theo ý. Bạn có thể thiết kế Frame như thiết kế một [**hình hộp**](broken-reference)**,** hoặc có thể thiết kế trong suốt để ẩn frame.
+* Thêm mới **Frame** và đưa các phần tử vào trong và sắp xếp theo ý. Bạn có thể thiết kế Frame như thiết kế một [**hình hộp**](/broken/pages/-LwSj1f29Nyqs3sPStbX)**,** hoặc có thể thiết kế trong suốt để ẩn frame.
 
 Bạn vào thanh công cụ nhanh --> Frame.
 

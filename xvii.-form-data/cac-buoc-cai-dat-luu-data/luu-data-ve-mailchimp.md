@@ -35,8 +35,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 
 ![](<../../.gitbook/assets/image (172).png>)
 
-**\*Cách lấy API KEY của Mailchimp**Đăng nhập tài khoản Mailchimp-> Extras-> API keys\
-
+**\*Cách lấy API KEY của Mailchimp**Đăng nhập tài khoản Mailchimp-> Extras-> API keys<br>
 
 ![](https://1356778738-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LfhC24FqqcE4wgm4W6R%2F-M4c7T93-8RhO2GO_1bo%2F-M4c9pEWiIxwLSCEWDC4%2Fimage.png?alt=media\&token=d75cb9d3-dbc2-49f8-972d-e539cc9f1eb3)
 

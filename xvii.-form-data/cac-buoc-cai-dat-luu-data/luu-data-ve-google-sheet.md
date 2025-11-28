@@ -19,8 +19,7 @@ Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn me
 
 **Cách 3 :** Truy cập builder chỉnh sửa trang landingpage muốn lưu data về **Google sheet**, ở phần **Form đăng ký--> mục Lưu data--> bấm Thêm mới ---> chọn Tạo liên kết -->Loại tài khoản là Google sheet.**
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
