@@ -1,8 +1,8 @@
 # TikTok Conversion API
 
-TikTok Conversion API  hoạt động song song với TikTok Pixel để tối ưu hiệu quả quảng cáo TikTok, cho phép gửi các dữ liệu về hành động (events) mua hàng trong cửa hàng của bạn từ server (máy chủ) lên TikTok. Các server events này được gắn với một Pixel cụ thể. Để thiết lập cơ chế tối ưu này, bạn cần login tk TikTok rồi liên kết qua phương thức OAth vào  mục Tài khoản liên kết của LadiPage&#x20;
+TikTok Conversion API ( qua máy chủ)  hoạt động song song với TikTok Pixel ( qua trình duyệt ) để tối ưu hiệu quả quảng cáo TikTok, cho phép gửi các dữ liệu về hành động (events) mua hàng trong cửa hàng của bạn từ server (máy chủ) lên TikTok. Các server events này được gắn với một Pixel cụ thể. Để thiết lập cơ chế tối ưu này, bạn cần login tk TikTok rồi liên kết qua phương thức OAth vào  mục Tài khoản liên kết của LadiPage&#x20;
 
-**Bước 1: Tạo tài khoản liên kết TikTok Event API**
+**Bước 1: Tạo tài khoản liên kết TikTok Conversion API**
 
 * Truy cập trang [builder.ladipage.com](http://builder.ladipage.com/), chọn menu Cài đặt ->Tích hợp -> Tài khoản liên kết -> Tạo tài khoản liên kế&#x74;**.** Sau đó lựa chọn Loại tài khoản là TikToK Conversion API&#x20;
 
@@ -26,7 +26,7 @@ Nhập **Email và Password** cho tài khoản Tiktok muốn kết nối&#x20;
 
 Ân **Confirm** để lưu lại thông tin vừa tạo&#x20;
 
-Sau khi tích hợp thành công tài khoản Tiktok, bạn sẽ nhận được 1 danh sách tài khoản quảng cáo, chọn tài khoản bạn muốn tích hợp và bấm Lưu liên kết&#x20;
+Sau khi tích hợp thành công tài khoản Tiktok, bạn sẽ nhận được 1 danh sách tài khoản quảng cáo, chọn tài khoản bạn muốn tích hợp và bấm **Lưu liên kết**&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1561).png" alt=""><figcaption></figcaption></figure>
 
