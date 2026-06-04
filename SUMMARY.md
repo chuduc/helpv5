@@ -192,7 +192,7 @@
   * [Hướng dẫn gắn mã Google Tag Manager trên LadiPage](xii.-theo-doi-va-do-luong-landing-page/ma-theo-doi-va-chuyen-doi/huong-dan-gan-ma-google-tag-manager-tren-ladipage.md)
   * [Hướng dẫn sử dụng tính năng Global tracking](xii.-theo-doi-va-do-luong-landing-page/ma-theo-doi-va-chuyen-doi/huong-dan-su-dung-tinh-nang-global-tracking.md)
   * [Hướng dẫn cài đặt Tiktok pixel](xii.-theo-doi-va-do-luong-landing-page/ma-theo-doi-va-chuyen-doi/huong-dan-cai-dat-tiktok-pixel/README.md)
-    * [TikTok Event API](xii.-theo-doi-va-do-luong-landing-page/ma-theo-doi-va-chuyen-doi/huong-dan-cai-dat-tiktok-pixel/tiktok-event-api.md)
+    * [TikTok Conversion API](xii.-theo-doi-va-do-luong-landing-page/ma-theo-doi-va-chuyen-doi/huong-dan-cai-dat-tiktok-pixel/tiktok-conversion-api.md)
 * [3. Hướng dẫn cài đặt Zalo Pixel](xii.-theo-doi-va-do-luong-landing-page/huong-dan-cai-dat-zalo-pixel/README.md)
   * [Cài đặt Zalo pixel cá nhân ](xii.-theo-doi-va-do-luong-landing-page/huong-dan-cai-dat-zalo-pixel/cai-dat-zalo-pixel-ca-nhan.md)
 * [4. Xác minh quyền sở hữu tên miền với Google Search Console](xii.-theo-doi-va-do-luong-landing-page/xac-minh-quyen-so-huu-ten-mien-voi-google-search-console/README.md)

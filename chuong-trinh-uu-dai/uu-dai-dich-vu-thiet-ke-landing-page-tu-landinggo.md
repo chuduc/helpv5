@@ -1,5 +1,23 @@
 ---
 description: 'Tìm hiểu dịch vụ và đăng ký nhận tư vấn tại: http://link.ladipage.vn/odh9f'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 1. Dịch vụ thiết kế Landing Page và Website từ Landinggo

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 2. Tặng bộ TEMPLATE Trung thu - Tăng tốc chiến dịch bán hàng mùa trăng rằm
 
 <figure><img src="../.gitbook/assets/post trung thu-02.png" alt=""><figcaption></figcaption></figure>
